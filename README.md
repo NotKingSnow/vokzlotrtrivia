@@ -1,1 +1,86 @@
-# vokzlotrtrivia
+q “**What is the name of the Balrog dwelling deep below the mines of Moria?**”
+a “Durin’s Bane”
+
+q “**Apart from the Witch King, who is the other named Nazgûl?**”
+a “Khamûl the Easterling”
+
+q “**Which of the 3 breeds of hobbits was Sméagol born to?**”
+a “Stoors”
+
+q “**Finish the quote: Tonight we remember those who gave their blood to defend this country… (4 words)**”
+a “Hail the victorious dead”
+
+q “**By which name did Elrond give to Aragorn when he was fostered at Rivendell?**”
+a “Estel”
+
+q “**Gandalf tells Frodo to meet him at the Prancing Pony in which village?**”
+a “Bree” 
+
+q “**What was the first capital city of Gondor, containing the famous Dome of Stars?**”
+a “Osgiliath”
+
+q “**Which captain of Cirith Ungol started a fight over coveting Frodo’s mithril shirt?**”
+a “Shagrat”
+
+q “**What is the name of the Second Marshall of Rohan and King Théoden's only son?**”
+a “Théodred”
+
+q “**What is Gimli’s final kill count after the battle for Helms Deep?**”
+a “43”
+
+q “**Weathertop, the watchtower in which Frodo was stabbed by the Witch-King is also known by which name?**”
+a “Amon Sûl”, "Amon Sul"
+
+q “**Which Dwarf left the Lonely Mountain to re-establish a dwarf presence in Moria?**”
+a “Balin”
+
+q “**This forest was the greatest of Middle Earth and was home to giant spiders and King Thranduil’s wood-elf kingdom**”
+a “Mirkwood”
+
+q “**Which beast were most commonly used by orcs as mounts in battle?**”
+a “Wargs”
+
+q “**Which dwarven kingdom does Thorin Oakenshield seek to reclaim from the dragon Smaug?**”
+a “Erebor”
+
+q “**After obtaining the Ring for the first time, how many years did Gollum have it for before losing it?**”
+a “500”, "Five-hundred", "Five hundred"
+
+q “**What surname does Frodo use when waiting for Gandalf at the prancing pony?**”
+a “Underhill”
+
+q “**What is the name of the ancestral sword King Theoden wields in battle?**”
+a “Herugrim”
+
+q “**What is the name of the bridge on which Gandalf faces the balrog of Moria**?”
+a “Khazad-Dum”, “Khazad Dum”
+
+q “**Who is the lord of Caras Galadhon?**” 
+a “Celeborn”
+
+q “**What language is most commonly spoken by the elves during the third age?**”
+a “Sindarin”
+
+q “**Who said it: “The very air you breath is a poisonous fume.**”
+a “Boromir”
+
+q “**What species did Saruman use as spies to watch the south after joining forces with Sauron?**”
+a “Crebain from Dunland”
+
+q “**The Watcher in the Water is responsible for the death of which member of Thorin Oakenshield's company during the recolonization of Moria?**”
+a “Oin”
+
+q “**Who said it: Do not be too eager to deal out death and judgment, even the very wise cannot see all ends**”
+a “Gandalf”
+
+q “**Complete the quote: if in doubt Meriadoc, always follow… (2 words)**”
+a “Your nose”
+
+q “**Complete the quote: behold the great realm and dwarf city of…(one word)**”
+a “Dwarrowdelf”
+
+q “**What is gandalfs original name?**”
+a “Olorin”
+
+q “**Which characters name translates to “Star-Dome” in Sindarin?**”
+a “Elrond” 
